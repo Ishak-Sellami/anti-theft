@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Anti-Sarika</string>
+    <string name="device_admin_description">Anti-Sarika Device Policy Controller for factory reset protection and security enforcement.</string>
+</resources>
